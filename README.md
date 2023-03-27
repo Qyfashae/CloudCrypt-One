@@ -24,4 +24,8 @@ Secure the internet together.
 
 
 
+For EDUCATIONAL purposes only!
+
+
+
 
