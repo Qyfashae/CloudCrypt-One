@@ -16,13 +16,12 @@ CloudCrypt-One is a cyber security platform were you have everything in one dash
  - Vulnerability Scanner & Web-Application Scanner.
  - VPS, VPN, DNS-Drip(Protection), MPS, P-Config, S-Config. 
  - Cyber Security/Protection against 99% of Vulnerabilities/Malicous Activity
+ - With the help of Artificial Intelligence this can also program/code own scripts that will fix the Vulnerability/Malicous - Activity.
 
 CloudCrypt-One is an amazing project that could potentially revolutionize the cyber security community and help protect countless people from malicious activity.
 
 Will be open-source so every single request, tips, put-in is much appreciated! 
 Secure the internet together. 
-
-
 
 For EDUCATIONAL purposes only!
 
