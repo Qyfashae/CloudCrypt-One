@@ -1,4 +1,4 @@
-# CloudCrypt-One
+# CloudCrypt-One | Artificial Intelligence Engine.
 This is a project i will be working on for a long time into the future.
 
 "CloudCrypt-One" is just a name that came to my mind. This project is so much more than just a project. 
