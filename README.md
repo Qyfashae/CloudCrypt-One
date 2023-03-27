@@ -17,5 +17,11 @@ CloudCrypt-One is a cyber security platform were you have everything in one dash
  - VPS, VPN, DNS-Drip(Protection), MPS, P-Config, S-Config. 
  - Cyber Security/Protection against 99% of Vulnerabilities/Malicous Activity
 
+CloudCrypt-One is an amazing project that could potentially revolutionize the cyber security community and help protect countless people from malicious activity.
+
+Will be open-source so every single request, tips, put-in is much appreciated! 
+Secure the internet together. 
+
+
 
 
